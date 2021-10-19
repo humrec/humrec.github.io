@@ -16,3 +16,4 @@ design:
 * [Marcel Zentner](https://www.uibk.ac.at/psychologie/fachbereiche/pdd/personality_assessment/mitarbeitende/zentner/), Universität Innsbruck (Co-Principal Investigator)
 * [Michael Huber](https://www.mdw.ac.at/ims/team/michael-huber/), MDW Vienna (Co-Principal Investigator)
 * Andreas Peintner, Universität Innsbruck (PhD student)
+* Peer-Ole Jacobsen, Universität Innsbruck (student assistant)
