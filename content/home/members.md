@@ -15,5 +15,7 @@ design:
 * [Peter Knees](https://www.ifs.tuwien.ac.at/~knees/), TU Vienna (Co-Principal Investigator)
 * [Marcel Zentner](https://www.uibk.ac.at/psychologie/fachbereiche/pdd/personality_assessment/mitarbeitende/zentner/), Universität Innsbruck (Co-Principal Investigator)
 * [Michael Huber](https://www.mdw.ac.at/ims/team/michael-huber/), MDW Vienna (Co-Principal Investigator)
+* Marta Moscati, JKU Linz (PhD student)
 * Andreas Peintner, Universität Innsbruck (PhD student)
+* David Gradinariu, TU Vienna (student assistant)
 * Peer-Ole Jacobsen, Universität Innsbruck (student assistant)
