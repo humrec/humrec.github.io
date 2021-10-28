@@ -6,14 +6,14 @@ title: 'My Friends Also Prefer Diverse Music: Homophily and Link Prediction With
 subtitle: ''
 summary: ''
 authors:
-- T. Duricic
-- D. Kowald
-- Schedl M.
-- E. Lex
+- Tomislav Duricic
+- Dominik Kowald
+- Markus Schedl
+- Elisabeth Lex
 tags: []
 categories: []
-date: -01-01
-lastmod: 2021-10-19T13:46:36+02:00
+date: '2021-01-01'
+lastmod: 2021-10-28T11:02:25+02:00
 featured: false
 draft: false
 
@@ -31,10 +31,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-19T11:46:30.521042Z'
+publishDate: '2021-10-28T09:02:25.092177Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the 2021 IEEE/ACM International Conference on Advances
-  in Social Networks Analysis and Mining (ASONAM 2021), Virtual, November 2021*'
+  in Social Networks Analysis and Mining (ASONAM 2021): 12th International Workshop
+  on Mining and Analyzing Social Networks for Decision Support (MSNDS 2021)*'
 ---
