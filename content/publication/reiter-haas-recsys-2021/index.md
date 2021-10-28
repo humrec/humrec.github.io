@@ -8,7 +8,8 @@ authors:
 - Markus Reiter-Haas
 - Emilia Parada-Cabaleiro
 - Markus Schedl
-- Elham andd Tkalcic, Marko Motamedi
+- Elham Motamedi
+- Marko Tkalcic
 - Elisabeth Lex
 tags: []
 categories: []
@@ -31,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-30T18:15:48.208725Z'
+publishDate: '2021-10-28T08:50:06.094886Z'
 publication_types:
 - '1'
 abstract: ''
