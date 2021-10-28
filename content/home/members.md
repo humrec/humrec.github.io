@@ -17,5 +17,5 @@ design:
 * [Michael Huber](https://www.mdw.ac.at/ims/team/michael-huber/), MDW Vienna (Co-Principal Investigator)
 * Marta Moscati, JKU Linz (PhD student)
 * Andreas Peintner, Universität Innsbruck (PhD student)
-* David Gradinariu, TU Vienna (student assistant)
+* David Gradinariu, TU Vienna (PhD student)
 * Peer-Ole Jacobsen, Universität Innsbruck (student assistant)
