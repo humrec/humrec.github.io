@@ -19,3 +19,4 @@ design:
 * Andreas Peintner, Universität Innsbruck (PhD student)
 * David Gradinariu, TU Vienna (PhD student)
 * Peer-Ole Jacobsen, Universität Innsbruck (student assistant)
+* Martin Bayer, Universität Innsbruck (student assistant)
