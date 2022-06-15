@@ -35,6 +35,6 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*Adjunct Proceedings of the 30th ACM Conference on User Modeling, Adaptation
-  and Personalization (UMAP textquoteright22 Adjunct)*'
+  and Personalization (UMAP'22 Adjunct)*'
 doi: 10.1145/3511047.3536412
 ---
