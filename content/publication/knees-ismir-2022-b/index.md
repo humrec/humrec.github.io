@@ -1,16 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Does Track Sequence in User-generated Playlists Matter?
+title: A Reproducibility Study on User-centric MIR Research and Why it is Important
 subtitle: ''
 summary: ''
 authors:
-- Harald Schweiger
-- Emilia Parada-Cabaleiro
-- Markus Schedl
+- Bruce Ferwerda, Andreas Rauber, Sebastian Strumbelj, Annabel Resch, Laurenz Tomandl,
+  Valentin Bauer, Tang Fung Yee, Josip Bobinac, Amila Ceranic, Riad Dizdar Peter Knees
 tags: []
 categories: []
-date: '2021-01-01'
+date: '2022-01-01'
 lastmod: 2022-09-27T14:43:01+02:00
 featured: false
 draft: false
@@ -29,10 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-27T12:43:01.515819Z'
+publishDate: '2022-09-27T12:43:01.103242Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the 22nd International Society for Music Information
-  Retrieval Conference 2021 (ISMIR 2021)*'
+publication: '*Proceedings of the 23st International Society for Music Information
+  Retrieval Conference 2022 (ISMIR 2022)*'
 ---

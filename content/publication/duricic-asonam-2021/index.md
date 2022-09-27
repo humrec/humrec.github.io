@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'My Friends Also Prefer Diverse Music: Homophily and Link Prediction With User
-  Preferences for Mainstream, Novelty, and Diversity in Music'
-subtitle: ''
+title: My friends also prefer diverse music
+subtitle: homophily and link prediction with user preferences for mainstream, novelty,
+  and diversity in music
 summary: ''
 authors:
 - Tomislav Duricic
@@ -12,8 +12,8 @@ authors:
 - Elisabeth Lex
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2021-10-28T11:02:25+02:00
+date: '2021-11-01'
+lastmod: 2022-09-27T14:43:02+02:00
 featured: false
 draft: false
 
@@ -31,11 +31,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-28T09:02:25.092177Z'
+publishDate: '2022-09-27T12:43:01.874507Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the 2021 IEEE/ACM International Conference on Advances
-  in Social Networks Analysis and Mining (ASONAM 2021): 12th International Workshop
-  on Mining and Analyzing Social Networks for Decision Support (MSNDS 2021)*'
+  in Social Networks Analysis and Mining*'
+doi: 10.1145/3487351.3492706
+links:
+- name: URL
+  url: https://doi.org/10.1145/3487351.3492706
 ---

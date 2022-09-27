@@ -13,8 +13,8 @@ authors:
 - Elisabeth Lex
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2021-10-28T11:01:53+02:00
+date: '2021-09-01'
+lastmod: 2022-09-27T14:43:01+02:00
 featured: false
 draft: false
 
@@ -32,10 +32,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-28T09:02:24.977152Z'
+publishDate: '2022-09-27T12:43:01.697003Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of ACM RecSys 2021 Late-Breaking Results co-located with
-  the 15th ACM Conference on Recommender Systems, RecSys 2021*'
+publication: '*Fifteenth ACM Conference on Recommender Systems*'
+doi: 10.1145/3460231.3478846
+links:
+- name: URL
+  url: https://doi.org/10.1145/3460231.3478846
 ---

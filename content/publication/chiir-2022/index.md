@@ -14,8 +14,8 @@ authors:
 - Navid Rekabsaz
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2021-12-23T19:43:09+01:00
+date: '2022-03-01'
+lastmod: 2022-09-27T14:43:02+02:00
 featured: false
 draft: false
 
@@ -33,10 +33,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-23T18:42:56.197782Z'
+publishDate: '2022-09-27T12:43:02.050106Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the 7th ACM SIGIR Conference on Human Information Interaction
-  and Retrieval (CHIIR 2022)*'
+publication: '*ACM SIGIR Conference on Human Information Interaction and Retrieval*'
+doi: 10.1145/3498366.3505791
+links:
+- name: URL
+  url: https://doi.org/10.1145/3498366.3505791
 ---

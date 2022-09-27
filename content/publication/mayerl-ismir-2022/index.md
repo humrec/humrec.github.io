@@ -1,16 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Does Track Sequence in User-generated Playlists Matter?
+title: 'Verse versus Chorus: Structure-aware Feature Extraction for Lyrics-based Genre
+  Recognition'
 subtitle: ''
 summary: ''
 authors:
-- Harald Schweiger
-- Emilia Parada-Cabaleiro
-- Markus Schedl
+- Stefan Brandl, Günther Specht, Markus Schedl, Eva Zangerle Maximilian Mayerl
 tags: []
 categories: []
-date: '2021-01-01'
+date: '2022-01-01'
 lastmod: 2022-09-27T14:43:01+02:00
 featured: false
 draft: false
@@ -29,10 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-27T12:43:01.515819Z'
+publishDate: '2022-09-27T12:43:01.305715Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the 22nd International Society for Music Information
-  Retrieval Conference 2021 (ISMIR 2021)*'
+publication: '*Proceedings of the 23st International Society for Music Information
+  Retrieval Conference 2022 (ISMIR 2022)*'
 ---

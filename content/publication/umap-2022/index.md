@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-06-15T15:49:12+02:00
+lastmod: 2022-09-27T14:43:02+02:00
 featured: false
 draft: false
 
@@ -30,11 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-15T13:48:47.370508Z'
+publishDate: '2022-09-27T12:43:02.227308Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Adjunct Proceedings of the 30th ACM Conference on User Modeling, Adaptation
-  and Personalization (UMAP22 Adjunct)*'
+publication: "*Adjunct Proceedings of the 30th ACM Conference on User Modeling, Adaptation\
+  \ and Personalization (UMAP'22 Adjunct)*"
 doi: 10.1145/3511047.3536412
 ---
