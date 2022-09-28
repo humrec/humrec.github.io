@@ -9,8 +9,8 @@ authors:
 - Richard Vogl, Peter Knees Maximilian Damböck
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2022-09-27T14:43:01+02:00
+date: '2022-12-01'
+lastmod: 2022-09-28T14:56:24+02:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-27T12:43:00.923409Z'
+publishDate: '2022-09-28T12:56:24.419391Z'
 publication_types:
 - '1'
 abstract: ''

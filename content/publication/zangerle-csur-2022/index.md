@@ -13,7 +13,7 @@ tags:
 - FEVR
 categories: []
 date: '2022-07-01'
-lastmod: 2022-09-27T14:49:17+02:00
+lastmod: 2022-09-28T14:56:24+02:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-27T12:49:17.681174Z'
+publishDate: '2022-09-28T12:56:23.831477Z'
 publication_types:
 - '2'
 abstract: 'The comprehensive evaluation of the performance of a recommender system
