@@ -6,11 +6,15 @@ title: 'Verse versus Chorus: Structure-aware Feature Extraction for Lyrics-based
 subtitle: ''
 summary: ''
 authors:
-- Stefan Brandl, Günther Specht, Markus Schedl, Eva Zangerle Maximilian Mayerl
+- Maximilian Mayerl
+- Stefan Brandl
+- Günther Specht
+- Markus Schedl
+- Eva Zangerle
 tags: []
 categories: []
 date: '2022-12-01'
-lastmod: 2022-09-28T14:56:24+02:00
+lastmod: 2022-09-28T15:02:43+02:00
 featured: false
 draft: false
 
@@ -28,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-28T12:56:24.757413Z'
+publishDate: '2022-09-28T13:02:43.289446Z'
 publication_types:
 - '1'
 abstract: ''
