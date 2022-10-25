@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-**Title:** Humans and Recommender Systems: Towards a Mututal Understanding  
+**Title:** Humans and Recommender Systems: Towards a Mutual Understanding  
 **Duration:** 01/09/2021-31/08/2024   
 **Funded by:** [FWF Austrian Science Fund](https://www.fwf.ac.at/en/)   
 **Total funding:** 599,686.50 EUR
