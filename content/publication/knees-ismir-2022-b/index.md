@@ -5,7 +5,8 @@ title: A Reproducibility Study on User-centric MIR Research and Why it is Import
 subtitle: ''
 summary: ''
 authors:
-- Peter, Ferwerda, Bruce Knees
+- Peter Knees
+- Bruce Ferwerda
 - Andreas Rauber
 - Sebastian Strumbelj
 - Annabel Resch
@@ -18,7 +19,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-09-28T15:02:43+02:00
+lastmod: 2022-11-15T14:25:45+01:00
 featured: false
 draft: false
 
@@ -36,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-28T13:02:43.129018Z'
+publishDate: '2022-11-15T13:25:45.494573Z'
 publication_types:
 - '1'
 abstract: ''
