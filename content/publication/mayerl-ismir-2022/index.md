@@ -36,6 +36,6 @@ publishDate: '2022-09-28T13:02:43.289446Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the 23st International Society for Music Information
+publication: '*Proceedings of the 23rd International Society for Music Information
   Retrieval Conference 2022 (ISMIR 2022)*'
 ---
