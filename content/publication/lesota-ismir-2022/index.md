@@ -1,21 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'LFM-2b: A Dataset of Enriched Music Listening Events for Recommender Systems
-  Research and Fairness Analysis'
+title: Traces of Globalization in Online Music Consumption Patterns and Results of
+  Recommendation Algorithms
 subtitle: ''
 summary: ''
 authors:
-- Markus Schedl
-- Stefan Brandl
 - Oleg Lesota
 - Emilia Parada-Cabaleiro
-- David Penz
+- Stefan Brandl
+- Elisabeth Lex
 - Navid Rekabsaz
+- Markus Schedl
 tags: []
 categories: []
-date: '2022-03-01'
-lastmod: 2022-09-28T15:02:44+02:00
+date: '2022-12-01'
+lastmod: 2022-12-22T11:41:04+01:00
 featured: false
 draft: false
 
@@ -33,13 +33,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-28T13:02:43.999878Z'
+publishDate: '2022-12-22T10:41:03.951573Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*ACM SIGIR Conference on Human Information Interaction and Retrieval*'
-doi: 10.1145/3498366.3505791
-links:
-- name: URL
-  url: https://doi.org/10.1145/3498366.3505791
+publication: '*Proceedings of the 23st International Society for Music Information
+  Retrieval Conference 2022 (ISMIR 2022)*'
 ---
