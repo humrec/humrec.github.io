@@ -6,8 +6,7 @@ title: 'Perception and classification of emotions in nonsense speech: Humans ver
 subtitle: ''
 summary: ''
 authors:
-- Emilia AND Batliner, Anton AND Schmitt, Maximilian AND Schedl, Markus AND Costantini,
-  Giovanni AND Schuller, Björn Parada-Cabaleiro
+- Emilia Parada-Cabaleiro, Anton Batliner, Maximilian Schmitt, Markus Schedl, Giovanni Constantini, Björn Schuller
 tags: []
 categories: []
 date: '2023-01-01'
