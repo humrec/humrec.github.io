@@ -8,14 +8,11 @@ sections:
   - block: hero
     demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: 
+      title: Humans and Recommender Systems 
+      subtitle: Towards a Mutual Understanding 
       text: |-
-        Humans and Recommender Systems:
-         Towards a Mutual Understanding
-        <pre>
-
-
-
+        Towards a Mutual Understanding
+        <pre> 
 
 
 
@@ -47,6 +44,7 @@ sections:
     design:
       css_class: "light"
       background:
+        text_color_light: true
         image: 
           filename: header.jpg
         filters:
