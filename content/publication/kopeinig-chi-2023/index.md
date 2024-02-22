@@ -1,5 +1,5 @@
 ---
-title: Show me a \"Male Nurse\"! How Gender Bias is Reflected in the Query Formulation
+title: Show me a "Male Nurse"! How Gender Bias is Reflected in the Query Formulation
   of Search Engine Users
 authors:
 - Simone Kopeinik
