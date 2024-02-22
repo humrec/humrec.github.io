@@ -50,6 +50,7 @@ sections:
         filters:
           brightness: 0.5
   - block: markdown
+    id: about
     content:
         title: About the Project
         text: |- 
@@ -74,6 +75,7 @@ sections:
     design:
       columns: '2'
   - block: markdown
+    id: members
     content:
       title: Members
       text: |- 
@@ -91,6 +93,7 @@ sections:
       design:
         columsn: '2'
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       text: |-
