@@ -31,13 +31,6 @@ sections:
 
 
 
-
-
-
-
-
-
-
         </pre>
       advanced:
         css_class: fullscreen
