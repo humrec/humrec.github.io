@@ -44,7 +44,7 @@ image:
 projects: []
 publishDate: '2022-11-15T13:09:10.486218Z'
 publication_types:
-- '1'
+- paper-conference 
 abstract: ''
 publication: '*Proceedings of the 31st ACM International Conference on Information
   & Knowledge Management*'

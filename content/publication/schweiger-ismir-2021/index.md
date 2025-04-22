@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2022-09-28T13:02:43.471416Z'
 publication_types:
-- '1'
+- paper-conference
 abstract: ''
 publication: '*Proceedings of the 22nd International Society for Music Information
   Retrieval Conference 2021 (ISMIR 2021)*'

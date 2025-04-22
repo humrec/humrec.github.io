@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2022-09-28T13:02:42.608471Z'
 publication_types:
-- '1'
+- paper-conference 
 abstract: ''
 publication: '*CARS - Workshop on Context-Aware Recommender Systems*'
 ---

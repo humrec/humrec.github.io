@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2022-09-28T13:02:43.838764Z'
 publication_types:
-- '1'
+- paper-conference 
 abstract: ''
 publication: '*Proceedings of the 2021 IEEE/ACM International Conference on Advances
   in Social Networks Analysis and Mining*'

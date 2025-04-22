@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2022-12-22T10:40:03.024093Z'
 publication_types:
-- '1'
+- paper-conference 
 abstract: ''
 publication: "*Adjunct Proceedings of the 30th ACM Conference on User Modeling, Adaptation\
   \ and Personalization (UMAP'22 Adjunct)*"

@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2022-12-22T10:40:43.248410Z'
 publication_types:
-- '1'
+- paper-conference 
 abstract: ''
 publication: '*ACM SIGIR Conference on Human Information Interaction and Retrieval*'
 doi: 10.1145/3498366.3505791

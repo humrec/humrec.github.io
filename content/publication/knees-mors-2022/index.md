@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2022-09-28T13:02:42.788998Z'
 publication_types:
-- '1'
+- paper-conference 
 abstract: ''
 publication: '*2nd Workshop on Multi-Objective Recommender Systems (MORS@RecSys2022)*'
 ---

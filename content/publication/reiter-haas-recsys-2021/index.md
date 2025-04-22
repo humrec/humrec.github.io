@@ -34,7 +34,7 @@ image:
 projects: []
 publishDate: '2022-09-28T13:02:43.670542Z'
 publication_types:
-- '1'
+- paper-conference 
 abstract: ''
 publication: '*Fifteenth ACM Conference on Recommender Systems*'
 doi: 10.1145/3460231.3478846
