@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2024-02-07T14:38:09.303532Z'
 publication_types:
-- '2'
+- article-journal 
 abstract: Recommender systems research and practice are fast-developing topics with
   growing adoption in a wide variety of information access scenarios. In this paper,
   we present an overview of research specifically focused on the emphevaluation of

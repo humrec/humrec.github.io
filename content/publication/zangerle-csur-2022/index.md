@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2022-09-28T13:02:42.440712Z'
 publication_types:
-- '2'
+- article-journal 
 abstract: 'The comprehensive evaluation of the performance of a recommender system
   is a complex endeavor: many facets need to be considered in configuring an adequate
   and effective evaluation setting. Such facets include, for instance, defining the

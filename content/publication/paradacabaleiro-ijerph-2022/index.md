@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2022-11-22T10:21:55.378096Z'
 publication_types:
-- '2'
+- article-journal
 abstract: ''
 publication: '*International Journal of Environmental Research and Public Health*'
 doi: 10.3390/ijerph19020994

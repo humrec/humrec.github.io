@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2024-02-07T14:37:54.525061Z'
 publication_types:
-- '2'
+- article-journal 
 abstract: 'Evaluation is a central step when developing, optimizing, and deploying
   recommender systems. The PERSPECTIVES 2023 workshop, held as part of the 17th ACM
   Conference on Recommender Systems (RecSys 2023), served as a forum where researchers

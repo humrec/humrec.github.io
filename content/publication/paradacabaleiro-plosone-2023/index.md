@@ -30,7 +30,7 @@ image:
 projects: []
 publishDate: '2023-02-06T13:04:43.838388Z'
 publication_types:
-- '2'
+- article-journal
 abstract: ''
 publication: '*PLOS ONE*'
 doi: 10.1371/journal.pone.0281079
